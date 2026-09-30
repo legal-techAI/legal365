@@ -1,0 +1,37 @@
+{
+  "release": "V108-cloud-demo",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d5ad62f539a92e134c1455963230e1d0ef26cb797c6c074bf7815e53ed3da7ed"
+    },
+    {
+      "path": "docker-compose.yml",
+      "sha256": "85bef945c6953751a64f73866e06f414a566a33f9c316a234b0bfbea91738201"
+    },
+    {
+      "path": "backend/Dockerfile",
+      "sha256": "cbbee0dc40e3ef3bb6fa0d16d2e9776326d4cba8b8e7815f40a1b19cca3e7882"
+    },
+    {
+      "path": "backend/requirements.txt",
+      "sha256": "7a1a436a09a46b9d2e327d40e8750e9fb2c60c48679e04b2acb567ba26e018c7"
+    },
+    {
+      "path": "docs/DEPLOY.md",
+      "sha256": "f2a8b45624c9a4733a81ceb41022a01b97810dd0643857931085741ff8199ea6"
+    },
+    {
+      "path": "frontend/index.html",
+      "sha256": "d76c57be2b0795f7562dda85c3860cdb1883b8e044fab4995e68f94808ddd63d"
+    },
+    {
+      "path": "infra/nginx.conf",
+      "sha256": "eeedfe0337a58eadc88b0c4ed24837d238270f3184f0da11cce48a6de1910f81"
+    },
+    {
+      "path": "backend/app/main.py",
+      "sha256": "984d5e092591cf3b4abcbaf16ba3a8406d230fdd707d9eb2fe13a4c4b39ec22b"
+    }
+  ]
+}
